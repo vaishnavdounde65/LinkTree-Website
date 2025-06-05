@@ -58,7 +58,6 @@ While it may not be perfect, it represents one of my **first steps** into front-
 ## 🙌 Acknowledgements
 
 - Inspired by [Linktree](https://linktr.ee/)
-- Thanks to free resources and tutorials online
 
 ---
 
